@@ -1,0 +1,41 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-color: rgb(155, 107, 107);
+    box-shadow: rgb(92, 70, 70) 0px 3px 3px 0px;
+}
+
+#input {
+    float: left;
+    height: 40px;
+    font-size: 1em;
+    margin-left: 8.531615%;
+    margin-top: 157px;
+    clear: none;
+    width: 14.665376%;
+    color: rgb(84, 101, 143);
+    background-color: rgb(29, 211, 166);
+    box-shadow: rgb(24, 22, 22) 0px 1px 3px 0px;
+    font-family: arial;
+    min-width: 82px;
+}
+
+#input:hover {
+    background-color: rgb(24, 22, 22);
+}
+
+#image {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 10.934165%;
+    margin-top: 157px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
